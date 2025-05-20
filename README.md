@@ -1,8 +1,10 @@
 # Sequence Learning for Transliteration 
 
 ## Overview
-This project implements and compares various sequence-to-sequence models (RNN, GRU, LSTM) with and without attention mechanisms for transliteration tasks. The implementation includes model training, hyperparameter sweeps, visualization tools, and prediction analysis.
+This code base is for part-A of the assignment(graded portion). This project implements and compares various sequence-to-sequence models (RNN, GRU, LSTM) with and without attention mechanisms for transliteration tasks. The implementation includes model training, hyperparameter sweeps, visualization tools, and prediction analysis.
 
+## Report Links
+[![W&B Report](https://img.shields.io/badge/Weights_&_Biases-Report_Link-blue)](https://wandb.ai/mm21b010-indian-institute-of-technology-madras/dakshina-transliteration/reports/Assignment-3-Exploring-Sequence-learning-problems-in-deep-learning-and-the-attention-mechanism--VmlldzoxMjg2NzY0MQ)
 
 ## Key Components
 
